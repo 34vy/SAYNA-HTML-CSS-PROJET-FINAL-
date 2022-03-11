@@ -1,0 +1,47 @@
+header {
+    background-color: #d35649;
+}
+
+a:hover {
+    background-color: #98a5a5;
+}
+
+.col-sm-6 {
+    display: inline;
+}
+
+h3 {
+    margin-top: -4%;
+    margin-left: 10%;
+}
+
+footer {
+    background-color: #1f1f1f;
+}
+
+footer>div.row {
+    margin-left: 10%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    justify-content: center;
+}
+
+h5 {
+    color: white;
+}
+
+footer>div.row>img {
+    height: 5%;
+    width: 3%;
+}
+
+
+/*box-shadow - ABOUT*/
+
+main div#block-white {
+    margin: 5% 5% 5% 5%;
+    border: 2px solid whitesmoke;
+    border-radius: 0px;
+    box-shadow: gray;
+    box-shadow: 100px;
+}
